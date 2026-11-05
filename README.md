@@ -6,7 +6,7 @@
   
   ### Languages and Tools
 
-[![Top Languages](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=galenecole&hide_progress=true&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=galenecole&hide_progress=true&langs_count=4&theme=dark)
   
 </div>
 <div id="lanauges" align="center">
