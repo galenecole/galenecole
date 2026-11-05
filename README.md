@@ -6,7 +6,7 @@
   
   ### Languages and Tools
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToSauced&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
   
 </div>
 <div id="lanauges" align="center">
