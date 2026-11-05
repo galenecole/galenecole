@@ -1,6 +1,6 @@
 <div align="center">
 
-### Simple Self-taught Development.
+### Simple Guy
 ---
 <div align="center">
   
